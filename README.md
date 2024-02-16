@@ -21,6 +21,8 @@
 * Employed advanced analytical techniques to categorize and identify regions characterized by high-density rental properties.
 * Provided insightful classifications on the rental property landscape in New York.
 
+#Project 2- Coming soon...
+
 Contact me - [LinkedIn](https://www.linkedin.com/in/abhishek-singh-40794b1a0/)
            - [Github](https://github.com/Abhi23909)
            - [Mail](mailto:singh.abhishekrajkumar@gmail.com)
