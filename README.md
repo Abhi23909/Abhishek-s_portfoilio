@@ -7,6 +7,7 @@
 
 
 #Work Experience:
+
   * Graduate Research Assistant, School of Education-St John's University, Queens, NY (Sept 2023- Present)
 --------------------------------------------------------
   * Intern, Boundless Chicago, Illinois (May 2023- July 2023)
