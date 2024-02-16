@@ -1,3 +1,14 @@
+#About: Hello,
+
+My name is Abhishek Singh, and I am deeply passionate about the power of data analytics to drive business decisions and strategies. With a Master’s in Business Analytics and Risk Management in progress from St. John’s University, graduating in May 2024, and hands-on experience in high-stakes consulting projects, I have honed my analytical acumen to decipher complex data sets and translate them into actionable insights.
+
+During my academic tenure, I've engaged in projects that ranged from evaluating business analysis frameworks of leading brands to conducting risk assessments that informed executive decisions. This fusion of theory and application has solidified my data analytics expertise. Working as an Executive in Residence Program Candidate and Graduate Research Assistant, I've tackled real-world data challenges, utilizing tools such as Oracle, Power BI, and SPSS, and programming languages including SQL and R, to not only understand but also predict business trends and outcomes.
+
+My professional journey has seen me drive significant improvements in marketing strategy and inventory management, resulting in measurable gains in revenue and cost reductions. My technical proficiency, combined with a strategic mindset, positions me to contribute effectively to any data-driven environment, particularly in roles focused on leveraging data to drive growth and operational excellence.
+
+I am excited about the prospect of leveraging my background in data analysis to help organizations like Abbott uncover insights that can lead to breakthrough innovations and improved business processes. I also enjoy learning through building relationships so please reach out if you'd like to connect!
+
+
 #Education:
   * St John's University, Queens, NY (Aug 2022- May 2024)
     MBA in Business Analytics and Risk Management
