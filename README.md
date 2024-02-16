@@ -7,7 +7,6 @@
 
 
 #Work Experience:
-
   * Graduate Research Assistant, School of Education-St John's University, Queens, NY (Sept 2023- Present)
 --------------------------------------------------------
   * Intern, Boundless Chicago, Illinois (May 2023- July 2023)
@@ -15,8 +14,6 @@
   * Student Caller, St John's University, Queens, NY (Aug 2022- May 2023)
 --------------------------------------------------------
   * Technical and Business Department Head, Soariz Technologies, Rajasthan, India (Jan 2018- Oct 2019)
-
-
 
 
 #Project 1- https://github.com/Abhi23909 
